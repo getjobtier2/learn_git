@@ -1,2 +1,2 @@
 # learn_git
-I am Aa quick learner
+I am a quick learner
